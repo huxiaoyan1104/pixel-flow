@@ -40,7 +40,7 @@ Most browser image tools are built for one-off saving. Pixel Flow is built for s
 
 ## Installation
 
-Available on [Chrome Web Store](https://joinpixelflow.com/). Free and PRO plans available.
+Installation information is available on [joinpixelflow.com](https://joinpixelflow.com/). Free and PRO plans are available.
 
 ## Documentation
 
@@ -53,6 +53,7 @@ Available on [Chrome Web Store](https://joinpixelflow.com/). Free and PRO plans 
 - [Support](./docs/en/support.md)
 - [Responsible Use](./docs/en/responsible-use.md)
 - [Best Practices](./docs/en/best-practices/index.md)
+- [Changelog](./CHANGELOG.md)
 
 ### 中文文档
 
@@ -65,6 +66,7 @@ Available on [Chrome Web Store](https://joinpixelflow.com/). Free and PRO plans 
 - [反馈与支持](./docs/zh/support.md)
 - [合理使用](./docs/zh/responsible-use.md)
 - [最佳实践](./docs/zh/best-practices/index.md)
+- [更新日志](./CHANGELOG.md)
 
 ## Pricing
 
@@ -77,7 +79,6 @@ Pixel Flow processes images locally in the browser. User data is stored using Ch
 ## Links
 
 - Website: [joinpixelflow.com](https://joinpixelflow.com/)
-- Chrome Web Store: [Pixel Flow](https://joinpixelflow.com/)
 - Support docs: [joinpixelflow.com/docs/support/](https://joinpixelflow.com/docs/support/)
 - Support email: [support@joinpixelflow.com](mailto:support@joinpixelflow.com)
 
