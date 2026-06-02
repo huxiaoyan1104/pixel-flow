@@ -2,7 +2,14 @@
 
 If you run into issues with scanning, downloading, sign-in, PRO access, or data management, use Contact Support in the settings page. Complete context helps support reproduce and resolve the issue faster.
 
+<figure>
+  <img src="/images/docs/feedback.webp" alt="Pixel Flow support entry" />
+  <figcaption>The support page explains what context to include when reporting an issue.</figcaption>
+</figure>
+
 ## Helpful Information
+
+Support email: [support@joinpixelflow.com](mailto:support@joinpixelflow.com).
 
 1. Action path.
 2. Affected page URL.

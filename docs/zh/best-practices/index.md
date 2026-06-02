@@ -4,10 +4,10 @@
 
 ## 已有场景
 
-- [设计师](./designers.md)
-- [电商运营](./ecommerce.md)
-- [内容团队](./content.md)
-- [AI 数据集整理](./ai-datasets.md)
+- [设计师](./designers/)
+- [电商运营](./ecommerce/)
+- [内容团队](./content/)
+- [AI 数据集整理](./ai-datasets/)
 
 ## 推荐模板
 

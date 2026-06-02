@@ -2,6 +2,11 @@
 
 打开包含图片的页面后，使用扫描功能。Pixel Flow 会检测当前页面图片，并在侧边栏中集中展示，减少反复打开新标签页的操作。
 
+<figure>
+  <img src="/images/docs/scan-page.webp" alt="Pixel Flow 图片采集页展示网页图片列表和筛选器" />
+  <figcaption>扫描结果会在侧边栏中集中展示，并保留格式、尺寸、来源等关键信息。</figcaption>
+</figure>
+
 ## 可以筛选什么
 
 - 来源和文件名

@@ -2,14 +2,30 @@
 
 图片详情页用于查看图片的尺寸、格式、来源上下文、可用元数据、颜色和技术信号。部分结果来自文件内容或元数据推断，适合辅助判断，不构成权属或法律结论。
 
-## 可查看的详情
+<figure>
+  <img src="/images/docs/preview.webp" alt="Pixel Flow 图片预览页" />
+  <figcaption>预览页用于快速确认图片内容和基本属性。</figcaption>
+</figure>
 
-- **尺寸和格式** — 宽度、高度、文件类型和文件大小
-- **来源上下文** — 原始页面 URL、响应式图片来源
-- **元数据** — EXIF 数据、相机参数、拍摄时间戳
-- **AI 指纹** — AI 生成可能性的技术推断
-- **AIGC 参数** — 模型、种子、采样器、CFG 比例（如果可获取）
-- **摄影参数** — EXIF、设备和拍摄相关信号
+<figure>
+  <img src="/images/docs/image-details.webp" alt="Pixel Flow 图片详情页" />
+  <figcaption>图片详情页会集中展示尺寸、格式、来源和可用元数据。</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/docs/ai-fingerprint.webp" alt="Pixel Flow AI 指纹检测面板" />
+  <figcaption>AI 指纹检测结果是技术推断，用于辅助判断，不代表法律或权属结论。</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/docs/aigc-parameters.webp" alt="Pixel Flow AIGC 参数识别面板" />
+  <figcaption>AIGC 参数面板帮助整理可能存在的生成参数和工作流线索。</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/docs/camera-parameters.webp" alt="Pixel Flow 摄影参数面板" />
+  <figcaption>摄影参数面板用于查看 EXIF、相机和拍摄相关信号。</figcaption>
+</figure>
 
 ## 使用建议
 

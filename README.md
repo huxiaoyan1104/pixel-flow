@@ -40,7 +40,7 @@ Most browser image tools are built for one-off saving. Pixel Flow is built for s
 
 ## Installation
 
-Available on [Chrome Web Store](https://pf.fun8.top/). Free and PRO plans available.
+Available on [Chrome Web Store](https://joinpixelflow.com/). Free and PRO plans available.
 
 ## Documentation
 
@@ -48,6 +48,7 @@ Available on [Chrome Web Store](https://pf.fun8.top/). Free and PRO plans availa
 - [Scan & Filter](./docs/en/scan-and-filter.md)
 - [Image Details & Metadata](./docs/en/image-details.md)
 - [Library & Export](./docs/en/library-and-export.md)
+- [Data Backup & Cleanup](./docs/en/data-backup-and-cleanup.md)
 - [Account & PRO](./docs/en/account-and-pro.md)
 - [Support](./docs/en/support.md)
 - [Responsible Use](./docs/en/responsible-use.md)
@@ -59,6 +60,7 @@ Available on [Chrome Web Store](https://pf.fun8.top/). Free and PRO plans availa
 - [扫描与筛选](./docs/zh/scan-and-filter.md)
 - [图片详情与元数据](./docs/zh/image-details.md)
 - [素材库与导出](./docs/zh/library-and-export.md)
+- [数据备份与清理](./docs/zh/data-backup-and-cleanup.md)
 - [账户与 PRO](./docs/zh/account-and-pro.md)
 - [反馈与支持](./docs/zh/support.md)
 - [合理使用](./docs/zh/responsible-use.md)
@@ -66,17 +68,18 @@ Available on [Chrome Web Store](https://pf.fun8.top/). Free and PRO plans availa
 
 ## Pricing
 
-Pixel Flow offers Free and PRO plans. See [pf.fun8.top/pricing](https://pf.fun8.top/pricing/) for current pricing and plan details.
+Pixel Flow offers Free and PRO plans. See [joinpixelflow.com/pricing](https://joinpixelflow.com/pricing/) for current pricing and plan details.
 
 ## Privacy
 
-Pixel Flow processes images locally in the browser. User data is stored using Chrome's local storage and IndexedDB. See the full [Privacy Policy](https://pf.fun8.top/privacy/).
+Pixel Flow processes images locally in the browser. User data is stored using Chrome's local storage and IndexedDB. See the full [Privacy Policy](https://joinpixelflow.com/privacy/).
 
 ## Links
 
-- Website: [pf.fun8.top](https://pf.fun8.top/)
-- Chrome Web Store: [Pixel Flow](https://pf.fun8.top/)
-- Support: [pf.fun8.top/docs/support/](https://pf.fun8.top/docs/support/)
+- Website: [joinpixelflow.com](https://joinpixelflow.com/)
+- Chrome Web Store: [Pixel Flow](https://joinpixelflow.com/)
+- Support docs: [joinpixelflow.com/docs/support/](https://joinpixelflow.com/docs/support/)
+- Support email: [support@joinpixelflow.com](mailto:support@joinpixelflow.com)
 
 ---
 

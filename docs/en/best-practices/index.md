@@ -4,10 +4,10 @@ Best practices explain how different roles can use Pixel Flow more effectively. 
 
 ## Available Scenarios
 
-- [Designers](./designers.md)
-- [Ecommerce operators](./ecommerce.md)
-- [Content teams](./content.md)
-- [AI dataset curation](./ai-datasets.md)
+- [Designers](./designers/)
+- [Ecommerce operators](./ecommerce/)
+- [Content teams](./content/)
+- [AI dataset curation](./ai-datasets/)
 
 ## Recommended Template
 

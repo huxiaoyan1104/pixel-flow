@@ -2,10 +2,20 @@
 
 Some advanced capabilities require sign-in or PRO access. The account area helps you review subscription status, plan records, entitlements, and support access.
 
+<figure>
+  <img src="/images/docs/settings.webp" alt="Pixel Flow settings page" />
+  <figcaption>Settings centralize account status, support access, and operational controls.</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/docs/pro-access.webp" alt="Pixel Flow PRO record page" />
+  <figcaption>The PRO area shows subscription records and available entitlements.</figcaption>
+</figure>
+
 ## Before Purchase
 
 Review the plan type, price, discount, billing cycle, auto-renewal status, and available features before purchase. Paddle checkout shows the final amount, taxes, and payment terms before you pay.
 
 ## Refunds and Cancellation
 
-For refund requests, renewal cancellation, and one-time pass rules, review the [refunds and cancellation policy](https://pf.fun8.top/refunds/).
+For refund requests, renewal cancellation, and one-time pass rules, review the [refunds and cancellation policy](/refunds/).
