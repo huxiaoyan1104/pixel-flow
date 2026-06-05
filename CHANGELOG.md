@@ -1,6 +1,6 @@
 # Changelog
 
-## 2026-06-06 — v1.0.0 maintenance
+## 2026-06-06 — v1.0.1
 
 - Improved compatibility with image pages served from IP-based HTTP addresses with ports, such as `http://xxx.xxx.xxx.xxx:xxxx`.
 - Improved image identification stability for repeated capture, preview, and deduplication.
