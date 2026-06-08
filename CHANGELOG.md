@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-06-08 — v1.0.3
+
+- Improved the side panel image scanning lifecycle so opening or reactivating the side panel explicitly triggers a fresh page image scan.
+- Fixed an issue where reopening the side panel after closing it could fail to scan images on the current page.
+- Fixed cases where an active tab could be marked as scanned before the content script performed a new scan.
+
 ## 2026-06-08 — v1.0.2
 
 - Improved image metadata fetching by bypassing browser cache, so image detail data reflects the latest source file more reliably.
