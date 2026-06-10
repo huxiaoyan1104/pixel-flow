@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-06-10 — v1.0.4
+
+- Improved active tab handling in the side panel so reactivating the same browser tab keeps the current scan filters instead of resetting the image list view.
+- Centralized Free and PRO quota rules for collections, custom tags, per-image tags, and batch downloads to keep quota behavior consistent across scanning, library, settings, and background services.
+- Fixed a same-tab activation case where scan filters could be cleared unexpectedly when the side panel refreshed the current tab state.
+- Fixed backup import handling so imported collection items skip invalid or duplicate records and respect the current user's collection quota.
+- Fixed quota enforcement consistency for custom tag creation, tag selection, and batch download limits.
+
 ## 2026-06-08 — v1.0.3
 
 - Improved the side panel image scanning lifecycle so opening or reactivating the side panel explicitly triggers a fresh page image scan.
