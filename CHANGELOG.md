@@ -1,5 +1,27 @@
 # Changelog
 
+## 2026-06-12 — v1.0.5
+
+### English
+
+- Added an invite code rewards guide link to all login methods so users can open the invitation documentation directly from the invite code field.
+- Improved Google reverse image search availability checks by applying the same upload size limit across scan results, favorites, and detail views.
+- Improved Google reverse image search handling for public image URLs, temporary upload fallback, and known hosts that require temporary upload.
+- Updated the disabled Google reverse image search button state and tooltip copy when an image is too large to search.
+- Fixed cases where local, private, or non-public URLs could be treated as valid Google reverse image search URLs.
+- Fixed oversized Google reverse image search requests being attempted before the UI could block unsupported images.
+- Fixed invite code documentation links opened from extension content by supporting the newer open-url message action.
+
+### 中文
+
+- 在所有登录方式的邀请码输入区域增加邀请码奖励说明入口，用户可直接打开邀请码使用文档。
+- 优化 Google 反向搜图可用性判断，在采集列表、素材库和图片详情中统一使用同一套上传大小限制。
+- 优化 Google 反向搜图对公网图片 URL、临时上传回退，以及需要强制临时上传的图片来源域名的处理逻辑。
+- 优化图片过大时 Google 反向搜图按钮的禁用状态和提示文案。
+- 修复本地地址、私有网络地址或非公网 URL 可能被误判为可用于 Google 反向搜图的问题。
+- 修复部分超大图片在界面提前拦截前仍可能发起 Google 反向搜图请求的问题。
+- 修复扩展内容页打开邀请码文档链接时，对新版打开 URL 消息动作兼容不足的问题。
+
 ## 2026-06-10 — v1.0.4
 
 - Improved active tab handling in the side panel so reactivating the same browser tab keeps the current scan filters instead of resetting the image list view.
